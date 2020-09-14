@@ -18,14 +18,15 @@
 * Zaczynaj od zmiany siebie
 * Nie bój się popełniać błędów, ale zawsze dąż, aby popełniać ich jak najmniej
 * Eksperymentuj i pamiętaj, że ewoluujesz
-* Nie będę ukrywaj swoich błędów i szybko się do nich przyznawaj
+* Nie ukrywaj swoich błędów i szybko się do nich przyznawaj
 * Balansuj teorie z praktyką
 
 ## Nastawienie
 * Odpoczywaj
 * Bądź proaktywny
 * Poświęcaj energię na to co możesz zmienić, nie narzekaj
-* Zaczynaj od rzeczy najważniejszych, weryfikuj na co poświęcasz czas
+* Zaczynaj od rzeczy najważniejszych
+* Weryfikuj na co poświęcasz czas
 * Dąż do tego, aby robić to co ma najbardziej pozytywny wpływ na jak najwięcej ludzi
 * Traktuj pieniądze jak narzędzie, a nie cel
 * Myśl i planuj długoterminowo, ale pamiętaj, że życie jest skończone
