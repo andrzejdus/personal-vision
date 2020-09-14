@@ -12,6 +12,7 @@
 * Nie bój się mówić nie
 * Nie akceptuj nieakceptowalnego
 * Otwarcie mów co myślisz
+* Nie obiecuj czegoś czego nie jesteś w stanie dotrzymać (walk the talk)
 
 ## Wiedza i nauka
 * Zdobywaj nową wiedzę, ucz się i rozwijaj, aby mieć narzędzia do lepszego życia
@@ -31,5 +32,4 @@
 * Traktuj pieniądze jak narzędzie, a nie cel
 * Myśl i planuj długoterminowo, ale pamiętaj, że życie jest skończone
 * Dbaj o siebie - tak samo o ciało jak i umysł
-* Nie obiecuj czegoś czego nie jesteś w stanie dotrzymać (walk the talk)
 * Rób to co słuszne, nie to co łatwe
