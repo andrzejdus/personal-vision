@@ -18,12 +18,13 @@
 * Zdobywaj nową wiedzę, ucz się i rozwijaj, aby mieć narzędzia do lepszego życia
 * Zaczynaj od zmiany siebie
 * Nie bój się popełniać błędów, ale zawsze dąż, aby popełniać ich jak najmniej
-* Eksperymentuj i pamiętaj, że ewoluujesz
 * Nie ukrywaj swoich błędów i szybko się do nich przyznawaj
+* Eksperymentuj i pamiętaj, że ewoluujesz
 * Balansuj teorie z praktyką
 
 ## Nastawienie
 * Odpoczywaj
+* Wysypiaj się
 * Bądź proaktywny
 * Poświęcaj energię na to co możesz zmienić, nie narzekaj
 * Zaczynaj od rzeczy najważniejszych
