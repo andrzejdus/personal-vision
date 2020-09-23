@@ -30,7 +30,6 @@
 * Bądź proaktywny
 * Zaczynaj od rzeczy najważniejszych
 * Poświęcaj energię na to co możesz zmienić, nie narzekaj
-* Weryfikuj na co poświęcasz czas
 * Dąż do tego, aby robić to co ma najbardziej pozytywny wpływ na jak najwięcej ludzi
 * Traktuj pieniądze jak narzędzie, a nie cel
 * Myśl i planuj długoterminowo, ale pamiętaj, że życie jest skończone
