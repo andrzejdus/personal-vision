@@ -1,6 +1,7 @@
 # personal-vision
 
 ## Relacje z ludźmi
+* Bądź nauczycielem, ale nie narzucaj
 * Spokojnie reaguj na trudne sytuacje
 * Zawsze próbuj zrozumieć inną osobę
 * Zakładaj, że możesz się mylić
