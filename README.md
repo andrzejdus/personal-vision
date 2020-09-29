@@ -1,6 +1,6 @@
 # personal-vision
 
-## Relacje z ludźmi
+## Relacje i interakcje z ludźmi
 * Spokojnie reaguj na trudne sytuacje
 * Zawsze próbuj zrozumieć inną osobę
 * Zakładaj, że możesz się mylić
@@ -14,14 +14,17 @@
 * Otwarcie mów co myślisz
 * Nie obiecuj czegoś czego nie jesteś w stanie dotrzymać (walk the talk)
 * Dziel się tym co wiesz, ale nie narzucaj
+* Chroń słabszych
+* Dąż do tego, aby robić to co ma najbardziej pozytywny wpływ na jak najwięcej ludzi
 
 ## Wiedza i nauka
-* Zdobywaj nową wiedzę, ucz się i rozwijaj, aby mieć narzędzia do lepszego życia
+* Zdobywaj nową wiedzę, ucz się i rozwijaj, aby lepiej rozumieć świat
 * Zaczynaj od zmiany siebie
-* Nie bój się popełniać błędów, ale zawsze dąż, aby popełniać ich jak najmniej
+* Eksperymentuj
+* Nie bój się popełniać błędów, ale nie zakładaj z góry, że możesz sobie odpuścić
 * Nie ukrywaj swoich błędów i szybko się do nich przyznawaj
-* Eksperymentuj i pamiętaj, że ewoluujesz
 * Balansuj teorie z praktyką
+* Nie stój w miejscu - działaj, aby jutro wiedzieć więcej
 
 ## Nastawienie
 * Dbaj o siebie - tak samo o ciało jak i umysł
@@ -30,7 +33,6 @@
 * Bądź proaktywny
 * Zaczynaj od rzeczy najważniejszych
 * Poświęcaj energię na to co możesz zmienić, nie narzekaj
-* Dąż do tego, aby robić to co ma najbardziej pozytywny wpływ na jak najwięcej ludzi
 * Traktuj pieniądze jak narzędzie, a nie cel
 * Myśl i planuj długoterminowo, ale pamiętaj, że życie jest skończone
 * Rób to co słuszne, nie to co łatwe
