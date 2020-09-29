@@ -27,6 +27,7 @@
 * Nie stój w miejscu - działaj, aby jutro wiedzieć więcej
 
 ## Nastawienie
+* Twórz rzeczy, które wywierają pozytywny wpływ i dostarczają wartości innym ludziom
 * Dbaj o siebie - tak samo o ciało jak i umysł
 * Odpoczywaj
 * Wysypiaj się
