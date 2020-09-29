@@ -1,7 +1,6 @@
 # personal-vision
 
 ## Relacje z ludźmi
-* Bądź nauczycielem, ale nie narzucaj
 * Spokojnie reaguj na trudne sytuacje
 * Zawsze próbuj zrozumieć inną osobę
 * Zakładaj, że możesz się mylić
@@ -14,6 +13,7 @@
 * Nie akceptuj nieakceptowalnego
 * Otwarcie mów co myślisz
 * Nie obiecuj czegoś czego nie jesteś w stanie dotrzymać (walk the talk)
+* Dziel się tym co wiesz, ale nie narzucaj
 
 ## Wiedza i nauka
 * Zdobywaj nową wiedzę, ucz się i rozwijaj, aby mieć narzędzia do lepszego życia
